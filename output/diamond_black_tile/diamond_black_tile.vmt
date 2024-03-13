@@ -1,0 +1,6 @@
+PBR
+{
+	$basetexture               "diamond_black_tile_basecolor"
+	$bumpmap                   "diamond_black_tile_bump"
+	$mraotexture               "diamond_black_tile_mrao"
+}
